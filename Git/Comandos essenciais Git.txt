@@ -1,0 +1,10 @@
+git clone <link do repositório>
+
+git status
+
+cd (para entrar na pasta)
+
+git add . (adicionar tudo que está na pasta)
+
+git commit -m "" (commitar as coisas)
+
