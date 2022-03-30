@@ -8,3 +8,5 @@ git add . (adicionar tudo que está na pasta)
 
 git commit -m "" (commitar as coisas)
 
+git push origin main (enviar as coisas)
+
