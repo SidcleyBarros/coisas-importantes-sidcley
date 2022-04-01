@@ -1,5 +1,5 @@
-# Sobre mim
-Repositório criado para armazenamento de informações. Futuramente irá se ampliar para um site próprio.
+# Sobre o site
+Repositório criado para armazenamento de informações.
 
 ## Sidcley de Farias Barros
 Desenvolvedor em aprendizado...
