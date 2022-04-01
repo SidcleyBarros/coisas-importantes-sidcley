@@ -1,0 +1,7 @@
+https://api.jquery.com/
+
+https://getbootstrap.com/docs/5.1/getting-started/introduction/
+
+https://materializecss.com/
+
+https://angular.io/start/start-routing
