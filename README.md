@@ -1,5 +1,5 @@
-# Sobre o site
-Repositório criado para armazenamento de informações.
+# Sobre o repositório
+Repositório criado inicialmente para armazenar certificados de conclusões de cursos/projetos e aperfeiçoamento de comandos Git.
 
-## Sidcley de Farias Barros
-Desenvolvedor em aprendizado...
+## Sobre mim
+Meu nome é Sidcley de Farias Barros e sou um desenvolvedor em aprendizado.
